@@ -1,2 +1,2 @@
 # python-course
-Ejercicios del curso "Python desde cero"
+Ejercicios del curso "Python desde cero" de Udemy
